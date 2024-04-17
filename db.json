@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Aaysha sharma",
+      "username": "aayu",
+      "email": "aysha@gmail.com",
+      "phone": "1-234-567-890",
+      "website": "nina.net"
+    },
+    {
+      "id": "2",
+      "name": "Mohit",
+      "email": "m@gmail.com",
+      "phone": "123-456-0789"
+    },
+    {
+      "id": "3",
+      "name": "Jiya",
+      "email": "j@gmail.com",
+      "phone": "321-065-4788"
+    },
+    {
+      "id": "4",
+      "name": "Kiran",
+      "email": "k@gmail.com",
+      "phone": "963-258-0174"
+    },
+    {
+      "id": "5",
+      "name": "Divya Lalwani",
+      "email": "lalwanidivya998@gmail.com",
+      "phone": "0632163212"
+    },
+    {
+      "id": "6",
+      "name": "Neha",
+      "email": "n@gmail.com",
+      "phone": "369-025-8147"
+    },
+    {
+      "id": "7",
+      "name": "Pooja",
+      "email": "p@gmail.com",
+      "phone": "987-365-2140"
+    }
+  ]
+}
